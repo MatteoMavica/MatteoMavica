@@ -51,4 +51,10 @@
 </div>
 
 ## <div align="center">📫 Come contattarmi</div>
-[<div align="center">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/matteo-mavica)</div>
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/matteo-mavica/" target="_blank">
+    <img src="https://img.shields.io/badge/Profilo_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profilo LinkedIn di Matteo Mavica" />
+  </a>
+  <br>
+</div>
