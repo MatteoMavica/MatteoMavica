@@ -1,11 +1,8 @@
 ![Banner](https://github.com/user-attachments/assets/c898b330-1351-447a-b9d5-69248f83fbca)
 
-# <div align="center">Ciao, sono Skypper! 🐧</div>
-<div align="center">Analista e Progettista Software | Web Developer</div>
-
 ## <div align="center">About Me 🛈</div>
 
-<div align="center">Unisco le solide basi ingegneristiche universitarie alla passione per lo sviluppo software. Mi concentro sulla progettazione di architetture scalabili, codice pulito e sulla risoluzione di problemi complessi.</div>
+<div align="justify">Unisco le solide basi ingegneristiche universitarie alla passione per lo sviluppo software. Mi concentro sulla progettazione di architetture scalabili, codice pulito e sulla risoluzione di problemi complessi.</div>
 
 ## <div align="center">Linguaggi 👨🏻‍💻</div>
 
